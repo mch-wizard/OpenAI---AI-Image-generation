@@ -12,8 +12,10 @@
 > Install the dependencies
 ```
 npm install
-Run server
 ```
+
+> Run server
+
 ```
 npm start
 ```
